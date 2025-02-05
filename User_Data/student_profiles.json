@@ -1,0 +1,14 @@
+[
+    {
+        "id": "student1",
+        "name": "Alice",
+        "learning_style": "visual",
+        "progress": {"Course_A": 70, "Course_B": 50}
+    },
+    {
+        "id": "student2",
+        "name": "Bob",
+        "learning_style": "auditory",
+        "progress": {"Course_A": 80, "Course_B": 65}
+    }
+]

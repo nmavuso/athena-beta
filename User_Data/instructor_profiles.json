@@ -1,0 +1,12 @@
+[
+    {
+        "id": "instructor1",
+        "name": "Dr. Smith",
+        "courses": ["Course_A"]
+    },
+    {
+        "id": "instructor2",
+        "name": "Prof. Johnson",
+        "courses": ["Course_B"]
+    }
+]
